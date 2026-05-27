@@ -98,4 +98,4 @@ npm run dev
 - **Artifact Caching**: The ML model (`.joblib`) is loaded into memory once during backend startup (Singleton pattern) to ensure minimal inference latency.
 
 ---
-Created by [Hakim](https://github.com/amhakimouse) ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+Created by [Hakim](https://github.com/amhakimouse)
